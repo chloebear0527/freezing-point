@@ -1,0 +1,12 @@
+.top-banner{
+	display: block;
+	text-align: center;
+	padding: 15px 0
+	background-color:white;
+	width: 100%
+}
+.promo-text{
+	text-align: center;
+	color: blue;
+	font:inherit;
+}
