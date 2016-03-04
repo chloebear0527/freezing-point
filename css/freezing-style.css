@@ -1,12 +1,18 @@
 .top-banner{
 	display: block;
 	text-align: center;
-	padding: 15px 0
+	padding: 13px 0;
 	background-color:white;
 	width: 100%
 }
 .promo-text{
+	/*font-family: 'Montserrat',sans-serif;
+	font-weight: 700;*/
+	/*display: bold;*/
 	text-align: center;
-	color: blue;
-	font:inherit;
+	color: black;
+}
+h1{
+	font-family:'Raleway',sans-serif;
+	font-weight:500;
 }
