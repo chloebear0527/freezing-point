@@ -60,9 +60,13 @@ video#bgvid {
 }
 
 ul.nav.navbar-nav{
-	padding-left: 150px;
+	padding-left: 300px;
 }
 
+ul.nav.navbar-nav.navbar-right{
+	padding-left: 50px;
+}
+ul
 .navbar-nav>li>a {
 	padding-left: 25px;
 	padding-right: 25px;
