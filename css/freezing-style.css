@@ -5,17 +5,17 @@
 	background-color:yellow;
 	width: 100%
 }
-.promo-text{
-	/*font-family: 'Montserrat',sans-serif;
-	font-weight: 700;*/
-	/*display: bold;*/
+/*.promo-text{
+	font-family:'Oswald', sans-serif;
+	font-weight: 700;
+	display: bold;
 	text-align: center;
 	color: black;
-}
+}*/
 
 h1{
-	font-family:'Raleway',sans-serif;
-	font-weight:500;
+	font-family:'Source Sans Pro',sans-serif;
+	font-weight:700;
 }
 nav{
 	position: fixed;
