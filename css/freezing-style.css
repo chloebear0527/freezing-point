@@ -1,14 +1,16 @@
 .top-banner{
 	display: block;
 	text-align: center;
-	padding: 13px 0;
+	padding: 8px 0;
 	background-color:rgba(68,226,243,.6);
-	width: 100%
+	width: 100%;
 }
 
 h1{
 	font-family:'Source Sans Pro',sans-serif;
 	font-weight:700;
+	font-size: 25px;
+	margin-top: 10px;
 }
 nav{
 	position: fixed;
@@ -59,10 +61,16 @@ ul.nav.navbar-nav{
 ul.nav.navbar-nav.navbar-right{
 	padding-left: 50px;
 }
-ul
-.navbar-nav>li>a {
-	padding-left: 25px;
-	padding-right: 25px;
+
+ul.navbar-nav li {
+	padding-left: 10px;
+	padding-right: 10px;
 }
+
+
+
+
+
+
 
 
