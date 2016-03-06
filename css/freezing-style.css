@@ -2,16 +2,9 @@
 	display: block;
 	text-align: center;
 	padding: 13px 0;
-	background-color:yellow;
+	background-color:rgba(68,226,243,.6);
 	width: 100%
 }
-/*.promo-text{
-	font-family:'Oswald', sans-serif;
-	font-weight: 700;
-	display: bold;
-	text-align: center;
-	color: black;
-}*/
 
 h1{
 	font-family:'Source Sans Pro',sans-serif;
