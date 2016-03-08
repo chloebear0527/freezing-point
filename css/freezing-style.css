@@ -1,11 +1,16 @@
 .top-banner{
 	display: block;
 	text-align: center;
-	padding: 8px 0;
-	background-color:rgba(68,226,243,.6);
+	/*padding: 8px 0;*/
+	
 	width: 100%;
+/*	height: 10px;*/
 }
-
+.top-banner img
+{
+	height: 100px;
+	margin-left: 0px;
+}
 h1{
 	font-family:'Source Sans Pro',sans-serif;
 	font-weight:700;
