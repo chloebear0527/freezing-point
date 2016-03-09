@@ -83,10 +83,28 @@ ul.navbar-nav li {
 	padding-right: 10px;
 }
 
+img{
+	width: 100%;
+}
 
+.picture img{
+	width: 470px;
+	height: 650px;
+}
+.picture{
+	display: inline-block;
+	/*margin:10px 10px;*/
+	border:1px solid white;
+	border-radius: 5px;
+	text-align:center;
+	display:inline-block;
+	color:white;
 
+}
 
+.threepics{
+	text-align: center;
+}
 
-
-
+@media(max-width: 676px)
 
