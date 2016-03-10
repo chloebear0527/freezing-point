@@ -74,6 +74,8 @@ video#bgvid {
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
 	background-color: transparent;
 	color: #FFFFFF; 
+	font-size: 15px;
+	font-weight: 800;
 }
 
 ul.nav.navbar-nav{
@@ -112,5 +114,5 @@ img{
 	text-align: center;
 }
 
-@media(max-width: 676px)
+@media(max-width: 430px)
 
