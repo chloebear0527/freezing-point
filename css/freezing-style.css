@@ -297,6 +297,8 @@ margin-top: 250px;
 }
 
 .hovereffect2:hover .overlay2 {
+	height: 50px;
+	margin-top: 40%;
   background-color: rgba(0,0,0,0.3);
 }
 
@@ -348,8 +350,18 @@ margin-top: 250px;
   transform: translate3d(0,0,0);
 }
 
+.haha{
+	font-size: 20px;
+}
 
+.price{
+    font-size: 18px;
+}
 
+.whole{
+	text-align: center;
+	line-height: 0px;
+}
 
 
 
