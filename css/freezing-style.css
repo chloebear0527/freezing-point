@@ -256,14 +256,14 @@ margin-top: 250px;
 	margin-top: 54.5px;
 }
 
-.product-lane-divider{
+/*.product-lane-divider{
 	border-top: 2px solid #FFFFFF;
 	width: 100%;
 	height:2px;
 	float: middle;
 	margin-bottom: 20px;
 }
-
+*/
 .product-title{
 	color: black;
 }
@@ -362,6 +362,7 @@ margin-top: 250px;
 	text-align: center;
 	line-height: 0px;
 }
+
 
 
 
