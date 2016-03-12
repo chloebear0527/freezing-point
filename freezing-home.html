@@ -59,18 +59,45 @@
           <!-- </ul>
         </li> -->
       </ul>
-      <form class="navbar-form navbar-right" role="search">
+      <form class="navbar-form navbar-right" "sign" role="search">
         <div class="form-group">
           <input type="text" class="form-control" placeholder="Search">
         </div>
         <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
       </form>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">SIGN IN</a></li>
+        <div><li data-toggle="modal" data-target="#myModal2">SIGN IN</li>
+
+ 
+
         <li><a href="#"><span class="glyphicon glyphicon-shopping-cart"></span></a></li>
-        </ul>
+        </ul></div>
 </div>
 </nav>
+<div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Sign In</h4>
+      </div>
+      <div class="modal-body">
+       
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="Email Adress">
+        </div>
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="Password">
+        </div>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Log In</button>
+      </div>
+    </div>
+  </div>
+</div>
       <!-- <form class="navbar-form navbar-right" role="search">
         <div class="form-group">
           <input type="text" class="form-control" placeholder="Search">
@@ -125,7 +152,7 @@
 </div>
 
 </div>
-
+ 
 
 <script src="https://code.jquery.com/jquery-1.12.1.min.js">
 </script>

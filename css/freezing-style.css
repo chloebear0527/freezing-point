@@ -89,6 +89,8 @@ ul.nav.navbar-nav.navbar-right{
 ul.navbar-nav li {
 	padding-left: 10px;
 	padding-right: 10px;
+	display: inline-block;
+
 }
 
 img{
@@ -109,10 +111,36 @@ img{
 	color:white;
 
 }
+.mens{margin-top: 104px;
+}
 
 .threepics{
 	text-align: center;
 }
+.inline img{
+	width:200px;
+	height: 200px;
+ }
+.men{
+	width: 1280px;
+	margin-top: 75px;
+}
+.footer{
+	bottom: 0;
+	position: absolute;
+	font-size: 100px;
+	background-color: rgba(159,168,163,.7);
+	
+	width: 100%;
+}
+.information{
+	font-size: 15px;
+}
 
-@media(max-width: 1280px)
+
+@media(max-width: 1280px;)
+
+
+
+
 
