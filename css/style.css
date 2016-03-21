@@ -8,6 +8,9 @@ a{
 	padding-left: 20px;
 }
 
-
-
-
+.picture:{
+width: 400px; 
+}
+.inline:{
+	width: 400px;
+}
